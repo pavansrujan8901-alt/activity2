@@ -1,0 +1,14 @@
+# Compiled C files
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+
+# Editor/debug files
+.vscode/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
