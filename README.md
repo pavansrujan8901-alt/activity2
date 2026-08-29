@@ -1,2 +1,7 @@
-# activity2
-A public GitHub repository containing a working C program and a descriptive README.md — the student's first entry in their engineering portfolio.
+# ACTIVITY 2 
+ 
+This project contains the C program ACT2.c. 
+ 
+## Run 
+gcc ACT2.c -o ACT2 
+.\ACT2 
